@@ -1,0 +1,15 @@
+E:\Studia\Projekty\ProjektTabliceWDP1\bin\Debug\net6.0\ProjektTabliceWDP1.exe
+E:\Studia\Projekty\ProjektTabliceWDP1\bin\Debug\net6.0\ProjektTabliceWDP1.deps.json
+E:\Studia\Projekty\ProjektTabliceWDP1\bin\Debug\net6.0\ProjektTabliceWDP1.runtimeconfig.json
+E:\Studia\Projekty\ProjektTabliceWDP1\bin\Debug\net6.0\ProjektTabliceWDP1.dll
+E:\Studia\Projekty\ProjektTabliceWDP1\bin\Debug\net6.0\ref\ProjektTabliceWDP1.dll
+E:\Studia\Projekty\ProjektTabliceWDP1\bin\Debug\net6.0\ProjektTabliceWDP1.pdb
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.csproj.AssemblyReference.cache
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.AssemblyInfoInputs.cache
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.AssemblyInfo.cs
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.dll
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ref\ProjektTabliceWDP1.dll
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.pdb
+E:\Studia\Projekty\ProjektTabliceWDP1\obj\Debug\net6.0\ProjektTabliceWDP1.genruntimeconfig.cache
